@@ -1,3 +1,4 @@
+mod audit;
 mod enforcement;
 mod labels;
 mod policy;
